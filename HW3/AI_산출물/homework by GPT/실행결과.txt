@@ -1,0 +1,8 @@
+학번 이름
+                   500          1K          5K         10K        100K
+selection       2.06ms      9.80ms    225.65ms    966.78ms 105012.14ms
+heap            0.36ms      0.86ms      5.62ms     11.84ms    183.76ms
+insertion       2.32ms     12.04ms    321.90ms   1230.76ms 155797.97ms
+quick           0.22ms      0.68ms      3.14ms      6.51ms     87.08ms
+merge           0.35ms      0.99ms      5.68ms     11.36ms    143.06ms
+python          0.02ms      0.06ms      0.34ms      0.65ms      9.77ms

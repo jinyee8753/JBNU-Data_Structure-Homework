@@ -1,0 +1,9 @@
+Student ID: 학번  Name: 이름
+
+                    500            1K            5K           10K          100K
+selection        2.07ms        8.69ms      239.24ms      978.26ms   104744.52ms
+     heap        0.40ms        0.97ms        5.80ms       14.43ms      200.35ms
+insertion        2.53ms       11.38ms      332.34ms     1305.70ms   151671.80ms
+    quick        0.18ms        0.48ms        3.00ms        5.99ms       92.70ms
+    merge        0.34ms        0.71ms        4.74ms        9.66ms      147.73ms
+   python        0.02ms        0.05ms        0.30ms        0.64ms        9.51ms
